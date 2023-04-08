@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi, I'm Will 👋
 
-<!--
-**willgibs/willgibs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I'm a creative developer who loves to design and build websites.
+- 🌱 Currently exploring web apps with the help of ChatGPT.
+- 👯 If you're ever looking to collaborate, (email me)[mailto:hello@willgib.com] and let's get to work!
 
-Here are some ideas to get you started:
+#### Find me around the web 🌎
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Making friends on (Twitter)[https://twitter.com/willgibs]
+- Showcasing my work in my (portfolio)[willgib.com]
+- Building websites on (Webflow)[https://webflow.com/@willgibson]
+- Acting extra professional on (LinkedIn)[https://www.linkedin.com/in/willgibs/]
+
+#### Here's a randomly generated joke, sorry if it's cheesy:
+![Jokes Card](https://readme-jokes.vercel.app/api)
