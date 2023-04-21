@@ -7,6 +7,6 @@
 ### Find me around the web 🌎
 
 - Making friends on [Twitter](https://twitter.com/willgibs)
-- Showcasing projects across my [portfolio](https://www.willgib.com)
+- Showcasing projects across my [portfolio](https://www.willgibs.com)
 - Building websites on [Webflow](https://webflow.com/@willgibson)
 - Acting extra professional on [LinkedIn](https://www.linkedin.com/in/willgibs/)
