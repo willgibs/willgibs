@@ -1,7 +1,7 @@
 ## Hi, I'm Will 👋
 
-- I'm a creative developer who loves to design and build websites.
-- Currently exploring web apps with the help of ChatGPT.
+- I'm a design engineer who loves to build web experiences.
+- Currently learning more about progressive web apps.
 - If you're ever looking to collaborate, [email me](mailto:hello@willgib.com) and let's get to work!
 
 ### Find me around the web 🌎
