@@ -1,7 +1,7 @@
 ## Hi, I'm Will 👋
 
-- I'm a design engineer who loves to build web experiences.
-- Currently learning more about progressive web apps.
+- I'm a design engineer with a focus on web experiences.
+- Currently diving into the world of Next.js.
 - If you're ever looking to collaborate, [email me](mailto:hello@willgib.com) and let's get to work!
 
 ### Find me around the web 🌎
