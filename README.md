@@ -1,12 +1,12 @@
-## Hi, I'm Will 👋
+## hi, I'm will 👋
 
-- I'm a design engineer with a focus on web experiences.
-- Currently diving into the world of Next.js.
-- If you're ever looking to collaborate, [email me](mailto:hello@willgib.com) and let's get to work!
+- i'm a product designer focused on design engineering
+- previously a front-end web dev mostly building web apps
+- always open to new projects, [email me](mailto:hello@willgib.com) and let's get to work!
 
-### Find me around the web 🌎
+### around the web 🌎
 
-- Making friends on [Twitter](https://twitter.com/willgibs)
-- Showcasing projects across my [portfolio](https://www.willgibs.com)
-- Building websites on [Webflow](https://webflow.com/@willgibson)
-- Acting extra professional on [LinkedIn](https://www.linkedin.com/in/willgibs/)
+- making friends on [twitter](https://twitter.com/willgibs)
+- showcasing work on my [portfolio](https://www.willgibs.com)
+- building sites & tools on [webflow](https://webflow.com/@willgibson)
+- acting extra professional on [linkedin](https://www.linkedin.com/in/willgibs/)
