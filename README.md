@@ -9,4 +9,4 @@
 - making friends on [twitter](https://twitter.com/willgibs)
 - showcasing work on my [portfolio](https://www.willgibs.com)
 - building sites & tools on [webflow](https://webflow.com/@willgibs)
-- acting extra professional on [linkedin](https://www.linkedin.com/in/willgibs/)
+- being extra professional on [linkedin](https://www.linkedin.com/in/willgibs/)
