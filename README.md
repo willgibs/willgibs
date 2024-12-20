@@ -1,7 +1,7 @@
 ## 👋 hi, I'm will
 
 - i'm a designer & web developer in the usa
-- currently building sites & apps, mostly with react/next.js
+- currently building sites & apps, mostly with react & next.js
 - always open to new projects, [email me](mailto:hi@willgibs.com) and let's get to work!
 
 ### 🌎 around the web
